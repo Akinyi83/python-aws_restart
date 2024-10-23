@@ -1,5 +1,5 @@
 # python-aws_restart
-This repository contains Python labs I completed as part of the AWS re/Start program. These labs cover a wide range of topics from the basics to more advanced Python concepts, helping to build both programming and cloud computing skills.
+This repository contains Python labs, within the environment folder,I completed as part of the AWS re/Start program. These labs cover a wide range of topics from the basics to more advanced Python concepts, helping to build both programming and cloud computing skills.
 
 # Table of Contents
 Lab 1: Python Basics (variables, data types, and operators)
